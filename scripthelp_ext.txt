@@ -1,0 +1,21 @@
+### THIS FILE IS A TEMPORARY ADDITION TO the script_help2 output,
+### the following functions are not included in the output for whatever reason.
+
+---[[ Vector:Cross  Cross product of two vectors]]
+-- @return Vector
+-- @param a Vector
+-- @param b Vector
+
+---[[ Vector:Dot  Dot product of two vectors]]
+-- @return float
+-- @param a Vector
+-- @param b Vector
+
+---[[ Vector:Length  Length of the Vector]]
+-- @return float
+
+---[[ Vector:Length2D  Length of the Vector in the XY plane]]
+-- @return float
+
+---[[ Vector:Normalized  Returns the vector normalized]]
+-- @return Vector
