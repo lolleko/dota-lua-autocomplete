@@ -1,7 +1,7 @@
 {
   "name": "dota-lua-autocomplete",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atocomplete suggestions for the Dota2 modding API.",
   "keywords": [],
   "repository": "https://github.com/lolleko/dota-lua-autocomplete",
